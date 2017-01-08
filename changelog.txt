@@ -1,0 +1,186 @@
+[B]Version 1.5.2.0[/B]
+ - added movies
+
+[B]Version 1.5.1.1[/B]
+- error on migration if watched.data does not exist
+
+[B]Version 1.5.1.0[/B]
+- 03.12.2015
+- pyc/pyo-bug
+- fanart/bg
+- search mode (see Config!)
+- configurable watched-color
+- watched.data migrated to user-profile
+- fixed some os.sep points
+
+[B]Version 1.5.0.1[/B]
+- 24.09.2015
+- dynamic API-compilation on client
+
+[B]Version 1.5.0[/B]
+- 24.09.2015
+- back to state of 1.4.8.6 with API
+
+[B]Version 1.4.9.9[/B]
+- 07.09.2015
+- closed API! reverted to slow webparsing
+
+[B]Version 1.4.8.6[/B]
+- 18.06.2015
+- encoding error for new genre märchen
+
+[B]Version 1.4.8.4[/B]
+- 24.05.2015
+- api json data gzipped - fixed
+
+[B]Version 1.4.8.3[/B]
+- 08.05.2015
+- forgot import os
+
+[B]Version 1.4.8.2[/B]
+- 08.05.2015
+- hostersort in straightPlay
+- os.path.join fix - thx to jin
+
+[B]Version 1.4.8.1[/B]
+- 08.05.2015
+- utf8/ascii bug in add2Lib
+
+[B]Version 1.4.8[/B]
+- 07.05.2015
+- fixed repeated play
+- optimized/fixed library bugs
+- fixed osmc bug https/http
+
+[B]Version 1.4.7.5[/B]
+- 05.05.2015
+- fixed some utf8-things
+- therefore watched works now
+- less crashes/errors :)
+- some more debugdata
+
+[B]Version 1.4.7[/B]
+- 04.05.2015
+- fixed cover-problems
+- fixed watched status
+- add to Library - thx jin
+
+[B]Version 1.4.6[/B]
+- 01.05.2015
+- exchanged regex with json-api
+- prefered hosterlist in config
+- thumbs for genre and alphabetical list
+- reactivating coverthumbs.
+
+[B]Version 1.4.2[/B]
+- 29.04.2015
+- url fixed
+- images fixed
+
+[B]Version 1.4.0[/B]
+- 19.01.2015
+- kodi-helix ready
+
+[B]Version 1.3.5[/B]
+- 31.10.2014
+- fix on some series (htmlentitydefs)
+
+[B]Version 1.3.4[/B]
+- 08.10.2014
+- videolink is already unicode
+
+[B]Version 1.3.3[/B]
+- 26.09.2014
+- bug in unicode-handling
+
+[B]Version 1.3.2[/B]
+- 25.09.2014
+- syntaxError in watched.py fixed
+
+[B]Version 1.3.1[/B]
+- 25.09.2014
+- deletecache-error fixed
+- play-stop-bug fix
+- htmlentities fixed
+
+[B]Version 1.3.0[/B]
+- gotham compatibility
+- forget dharma, eden!
+- changed cover-urls
+- "delete cache" in config
+- fixed crash on "no cover"
+- fixing favorites behaviour
+- added series name to seasonslist
+- compiling regexes on start
+- t0mmo modules refixed
+- watched status built in
+- subplayer-class
+- 24.09.2014
+
+[B]Version 1.1.7[/B]
+- regex fix EpisodesB
+- 28.10.2013
+
+[B]Version 1.1.6[/B]
+- regex fix SeasonsPic
+- 28.09.2013
+
+[B]Version 1.1.5[/B]
+- regex fix
+- 03.05.2013
+
+[B]Version 1.1.3[/B]
+- python fix 2.1.0
+- 11.03.2013
+
+[B]Version 1.1.2[/B]
+- error fix matchCover in Episodes
+- 03.03.2013
+
+[B]Version 1.1.1[/B]
+- switch in config for eden-compatibilty
+- 02.03.2013
+
+[B]Version 1.1.0[/B]
+- grouping by genre/first character
+- series thumbnail caching via vfs
+- 01.03.2013
+
+[B]Version 1.00[/B]
+- fixed regex
+- genre/alphabet (sortinghint by dersphere.thx)
+- 01.03.2013
+
+[B]Version 0.99[/B]
+- fixed some regex-problems
+- frodo compatible?
+- 02.11.2012
+
+[B]Version 0.98[/B]
+- using now urlResolver
+- changed to new domain name burning-seri.es
+- 17.07.2012
+
+[B]Version 0.95[/B]
+- using now urlResolver
+- 13.05.2012
+
+[B]Version 0.92[/B]
+- regex fixed
+- 03.05.2012
+
+[B]Version 0.90[/B]
+- after relaunch of bs.to reactivating addon
+- 12.04.2012
+
+[B]Version 0.88[/B]
+- fixed JS-cookie security changes
+- 31.12.2011
+
+[B]Version 0.85[/B]
+- Initial open testable version for Dharma
+- by now streams from megavideo, videoBB, rapidvideo, putlocker functional
+- thx to bitbit@userscripts.org 4 megavideo decrypt
+- thx to xstream code hints
+- thx to nixa 4 putlocker cookie-hint
+- 20.10.2011

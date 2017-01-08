@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="32001">
+        <setting label="30101" type="text" id="hosterlist" default=""/>
+		<setting label="30102" id="seriespath" type ="folder" />
+		<setting label="30107" id="watchedColor" type="text" default="FF404040"/>
+		<setting type="sep"/>
+		<setting label="30106" id="search" type="action" action="RunScript(special://home/addons/plugin.video.burningseries/searchlist.py)"/>
+		<setting type="sep"/>
+		<setting label="30103" id="finish" type="action" action="RunScript(special://home/addons/plugin.video.burningseries/apifinish.py)"/>
+		<setting type="sep"/>
+		<setting label="30104" type="text" id="un" default=""/>
+		<setting label="30105" type="text" id="pw" default="" enable="!eq(-1,)"/>
+    </category>
+</settings>

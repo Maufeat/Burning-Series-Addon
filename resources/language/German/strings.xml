@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <string id="32001">Einstellungen</string>
+  <string id="30101">Hosterlist</string>
+  <string id="30102">Serien Ordner</string>
+  <string id="30103">API vollenden</string>
+  <string id="30104">Username</string>
+  <string id="30105">Passwort</string>
+  <string id="30106">Aktualisiere Suchliste</string>
+  <string id="30107">Angeschaut Farbe HEX AARRGGBB</string>
+</strings>
